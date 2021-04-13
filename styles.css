@@ -18,6 +18,10 @@ body {
 #frame > h3 {
     margin: 0;
 }
+#frame > label {
+    margin: 10px 0 0;
+}
+
 #frame > #generate_button {
     margin: 10px 0;
     background-color: antiquewhite;
